@@ -23,5 +23,5 @@ int main(){
   int n=9;
   int q;
   q=binsearch(x, v, n);
-  printf("the answer is %d\n", q);
+  printf("the answer is %d\n:", q);
 }
